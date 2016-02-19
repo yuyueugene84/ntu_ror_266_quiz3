@@ -1,3 +1,5 @@
+1. 請解釋 database.yml, routes.rb, 和 Gemifle 分別是什麼？ 他們分別在一個 Rails 專案裡的什麼位置？ 他們為什麼對一個 Rails 專案如此重要？
+
 2. MVC 架構裡的 M, V, 和 C 分別代表什麼？ 
 
 3. 請解釋 CRUD 是哪四個字的縮寫？  
